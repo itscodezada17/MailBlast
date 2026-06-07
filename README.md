@@ -11,6 +11,8 @@ A SwiftUI cold-email tool for iPhone. Save an email template, subject, and résu
 | Onboarding | Send Mail |
 |:---:|:---:|
 | <img src="docs/screenshots/01-onboarding.png" width="250" alt="Onboarding — template, subject, résumé"> | <img src="docs/screenshots/02-send-empty.png" width="250" alt="Send Mail tab"> |
+| **History** | **Edit Profile** |
+| <img src="docs/screenshots/03-history.png" width="250" alt="History — empty state"> | <img src="docs/screenshots/04-edit-profile.png" width="250" alt="Edit Profile"> |
 
 ---
 
